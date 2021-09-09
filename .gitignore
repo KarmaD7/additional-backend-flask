@@ -1,3 +1,10 @@
 dataset/
 .vscode
 .DS_Store
+test/
+entity/
+name/
+
+*.zip
+*.txt
+sgns.wiki.bigram-char
